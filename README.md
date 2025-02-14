@@ -66,9 +66,8 @@ Check Cloud Dashboard: Verify that the data is displayed correctly in real-time.
 
 Finalizing the Prototype:
 Securely Mount the Components: Use an enclosure to protect the device.
-
 Optimize Code for Performance: Ensure reliable data transmission and minimal latency.
 
 Documentation: Document the setup, code, and instructions for using the system.
 
-*OUTPUT*:
+*OUTPUT*: ![Image](https://github.com/user-attachments/assets/caa72378-9925-4aff-9cfb-cbfb8ea626e9)
